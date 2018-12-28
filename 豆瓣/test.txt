@@ -1,0 +1,131 @@
+<div class="item">
+<div class="pic">
+<em class="">41</em>
+<a href="https://movie.douban.com/subject/1900841/">
+<img alt="窃听风暴" class="" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1808872109.jpg" width="100"/>
+</a>
+</div>
+<div class="info">
+<div class="hd">
+<a class="" href="https://movie.douban.com/subject/1900841/">
+<span class="title">窃听风暴</span>
+<span class="title"> / Das Leben der Anderen</span>
+<span class="other"> / 他人的生活  /  别人的生活</span>
+</a>
+<span class="playable">[可播放]</span>
+</div>
+<div class="bd">
+<p class="">
+                            导演: 弗洛里安·亨克尔·冯·多纳斯马 Florian Henckel von Donnersmarck   ...<br/>
+                            2006 / 德国 / 剧情 悬疑
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">9.1</span>
+<span content="10.0" property="v:best"></span>
+<span>291964人评价</span>
+</div>
+<p class="quote">
+<span class="inq">别样人生。</span>
+</p>
+</div>
+</div>
+</div>
+<div class="item">
+<div class="pic">
+<em class="">74</em>
+<a href="https://movie.douban.com/subject/1418019/">
+<img alt="大闹天宫" class="" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2184505167.jpg" width="100"/>
+</a>
+</div>
+<div class="info">
+<div class="hd">
+<a class="" href="https://movie.douban.com/subject/1418019/">
+<span class="title">大闹天宫</span>
+<span class="other"> / 大闹天宫 上下集  /  The Monkey King</span>
+</a>
+<span class="playable">[可播放]</span>
+</div>
+<div class="bd">
+<p class="">
+                            导演: 万籁鸣 Laiming Wan / 唐澄 Cheng  Tang   主演: 邱岳峰 Yuefeng Qiu /...<br/>
+                            1961(中国大陆) / 1964(中国大陆) / 1978(中国大陆) / 2004(中国大陆) / 中国大陆 / 动画 奇幻
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">9.3</span>
+<span content="10.0" property="v:best"></span>
+<span>142596人评价</span>
+</div>
+<p class="quote">
+<span class="inq">经典之作，历久弥新。</span>
+</p>
+</div>
+</div>
+</div>
+<div class="item">
+<div class="pic">
+<em class="">172</em>
+<a href="https://movie.douban.com/subject/10533913/">
+<img alt="头脑特工队" class="" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2266293606.jpg" width="100"/>
+</a>
+</div>
+<div class="info">
+<div class="hd">
+<a class="" href="https://movie.douban.com/subject/10533913/">
+<span class="title">头脑特工队</span>
+<span class="title"> / Inside Out</span>
+<span class="other"> / 玩转脑朋友(港)  /  脑筋急转弯(台)</span>
+</a>
+<span class="playable">[可播放]</span>
+</div>
+<div class="bd">
+<p class="">
+                            导演: 彼特·道格特 Pete Docter / 罗纳尔多·德尔·卡门 Ronaldo Del Carmen  &amp;nb...<br/>
+                            2015 / 美国 / 喜剧 动画 冒险
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.7</span>
+<span content="10.0" property="v:best"></span>
+<span>286159人评价</span>
+</div>
+<p class="quote">
+<span class="inq">愿我们都不用长大，每一座城堡都能永远存在。</span>
+</p>
+</div>
+</div>
+</div>
+<div class="item">
+<div class="pic">
+<em class="">212</em>
+<a href="https://movie.douban.com/subject/4739952/">
+<img alt="初恋这件小事" class="" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1505312273.jpg" width="100"/>
+</a>
+</div>
+<div class="info">
+<div class="hd">
+<a class="" href="https://movie.douban.com/subject/4739952/">
+<span class="title">初恋这件小事</span>
+<span class="title"> / สิ่งเล็กเล็กที่เรียกว่า...รัก</span>
+<span class="other"> / 初恋那件小事(港)  /  暗恋那点小事</span>
+</a>
+<span class="playable">[可播放]</span>
+</div>
+<div class="bd">
+<p class="">
+                            导演: 普特鹏·普罗萨卡·那·萨克那卡林 Puttipong Promsaka Na Sakolnakorn / 华森·波克彭...<br/>
+                            2010 / 泰国 / 剧情 喜剧 爱情
+                        </p>
+<div class="star">
+<span class="rating4-t"></span>
+<span class="rating_num" property="v:average">8.3</span>
+<span content="10.0" property="v:best"></span>
+<span>545152人评价</span>
+</div>
+<p class="quote">
+<span class="inq">黑小鸭速效美白记。</span>
+</p>
+</div>
+</div>
+</div>
