@@ -47,16 +47,33 @@ def parse_one_page(html):
 		yield douban
 	
 
-def main():
+ddef main():
 	with open('douban.json','w+',encoding='utf-8') as f:
+		f.write('['+'\n')
+		d={}
 		for i in range(10):
 			start=i*25
 			html=get_one_page(start)
 			results=parse_one_page(html)
-			for result in results:
-				# print(json.dumps(result,indent=2,ensure_ascii=False))
-				f.write(json.dumps(result,indent=2,ensure_ascii=False))
-			# break
+			
+			#以下部分作用-------
+			#保存json为list，判断末尾，适时写入分隔符
+			while True:
+				if not d:
+					d=next(results)
+					continue
+				else:
+					f.write(json.dumps(d,indent=2,ensure_ascii=False))
+					try:
+						d=next(results)
+						f.write(','+'\n')
+					except StopIteration as e:
+						if i<9:
+							f.write(','+'\n')
+						else:
+							f.write('\n')
+						break
+		f.write(']')
 
 
 if __name__=='__main__':
